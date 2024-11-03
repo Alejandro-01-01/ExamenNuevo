@@ -101,7 +101,7 @@ function ExamenNuevo() {
             color: '#fff',
             cursor: 'pointer',
             fontSize: '16px'
-          }}>Enviar</button>
+          }}>Enviar Cotizacion </button>
         </form>
       </div>
     </div>
